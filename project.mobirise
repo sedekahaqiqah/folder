@@ -15,9 +15,9 @@
         "titleFont": "PT Sans",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       }
     },
     "versionFirst": "3.10.4",
@@ -845,7 +845,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#f7da64"
           },
           "text": "<blockquote>Harus diakui, kemajuan pembangunan nasional belum bisa dirasakan sepenuhnya oleh masyarakat pedesaan. Di balik suburnya tanah pedesaan, tersimpan kisah duka mereka yang hidup dalam kemiskinan. Sungguh sebuah ironi. Bisakah kita membantu mereka?</blockquote>"
         },
@@ -871,7 +871,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#ffffff"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
         },
