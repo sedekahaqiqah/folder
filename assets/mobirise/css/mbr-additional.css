@@ -555,13 +555,7 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#msg-box8-7 .mbr-section-title,
-#msg-box8-7 p {
-  color: #fff;
-}
-#msg-box8-7 .lead P {
-  text-align: left;
-}
-#msg-box8-7 .mbr-section-title {
-  text-align: left;
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
 }
