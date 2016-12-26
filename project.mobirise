@@ -800,6 +800,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -812,7 +818,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/desa-miskin-1-2000x1325-59.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -826,8 +832,8 @@
             "showText": true,
             "showButton": false
           },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "title": "Membangun Desa dari Aqiqah",
+          "text": "<p>Masyarakat desa memiliki peran penting dalam kehidupan warga kota. Dari desalah bahan makanan bermula: beras, sayur, bumbu, telur, ikan dan daging. Lebih dari 100 juta jiwa tinggal di pedesaan, menjadi penyuplai kebutuhan pangan nasional..</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Meski memegang posisi strategis, politik pembangunan belum berpihak kepada desa. Setelah 70 tahun merdeka, kehidupan mayoritas masyarakat desa masih belum sejahtera. Terbatasnya infrastruktur dasar menjadi salah satu penyebabnya.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Untuk menggerakkan perekonomian desa, lembaga zakat, infak dan sedekah Lazismu pada awal tahun 2017 meluncurkan program ”Sentra Ternak Kambing” di 100 pedesaan untuk melayani kebutuhan kambing qurban. Sentra Ternak Kurban akan melibatkan secara langsung masyarakat desa sebagai subjek. Pada tahap berikutnya, mereka diharapkan bisa mandiri dan sejahtera.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Lazismu melalui jejaringnya yang tersebar di lebih dari 200 kabupaten/kota, Lazismu tercatat sebagai operator qurban terbesar di Indonesia. Lazismu pada tahun 2016 telah menerima amanat lebih dari 150 ribu kaum muslim di berbagai kota untuk menyediakan dan menyalurkan hewan qurban yang terdiri atas 35.000 ekor kambing dan 15.000 ekor sapi dan kerbau di pelosok desa. Jumlah penerima manfaat tercatat lebih dari 1.400.000 jiwa.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Selain untuk memenuhi kebutuhan kambing qurban, Sentra Ternak Kambing juga melayani permintaan kambing aqiqah yang datang setiap saat. Untuk itu, Aqiqahmu bekerjasama dengan Lazismu memperkenalkan program Sedekah Aqiqah.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sedekah Aqiqah merupakan program layanan aqiqah yang unik, karena aqiqah akan dikelola masyarakat desa. Sasaran penerima aqiqah adalah kaum dhuafa, anak-anak yatim, para santri dan pelayan sosial keaagamaan di masjid, mushola dan madrasah di pedesaan.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Melalui Sedekah Aqiqah, Bapak dan Ibu tidak hanya telah menunaikan aqiqah sesuai tuntutan syariat, tetapi juga telah membuat masyarakat desa semakin berdaya.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Terima kasih telah menyambut baik program Sedekah Aqiqah.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sedekah Aqiqah – Aqiqahmu</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {

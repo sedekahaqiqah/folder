@@ -559,3 +559,9 @@ h6,
 #msg-box8-7 p {
   color: #fff;
 }
+#msg-box8-7 .lead P {
+  text-align: left;
+}
+#msg-box8-7 .mbr-section-title {
+  text-align: left;
+}
